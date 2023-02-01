@@ -53,6 +53,7 @@ To start, clone this repo and begin to edit the following files:
     - node_modules
     - __pycache__  
 <br/>
+
 - .github/workflows
   - This is where all GitHub workflows are found and where CI/CD can be specified. The following workflows must be created:
     - Linting process
