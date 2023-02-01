@@ -67,7 +67,7 @@ To start, clone this repo and begin to edit the following files:
   - Your README.md file should specify everything mentioned in the Goals section.
 
 
-# Project Management Structure :building:
+# Project Management Structure :office:
 
 All tasks should be managed under a milestone. To create these tasks, an issue must be created, and then placed into the milestone. Once the issue is created, 
 
